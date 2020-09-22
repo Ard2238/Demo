@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Second change in local. Creating conflict stage.
+=======
+Second change in remote. Creating conflict stage.
+>>>>>>> e142f26265d579dd84ac515b96fdbfcd18bb65d1
