@@ -5,4 +5,4 @@ Second change in remote. Creating conflict stage.
 >>>>>>> e142f26265d579dd84ac515b96fdbfcd18bb65d1
 
 
-Changing for branch purpose.
+Changing for branch purpose. (11)
