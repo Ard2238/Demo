@@ -1,0 +1,175 @@
+   11  git status
+   12  git init
+   13  git status
+   14  git status
+   15  git add
+   16  git status
+   17  git commit
+   18  git commit -m initial commit
+   19  git add .
+   20  git config -global user.email "abhishekrdas28@gmail.com"
+   21  git config --global user.email "abhishekrdas28@gmail.com"
+   22  git config --global user.name "Ard2238"
+   23  git add .
+   24  git config --global --list
+   25  git status
+   26  git commit -m "Intital commit"
+   28  git init
+   29  git status
+   30  git config --global user.email "abhishekrdas28@gmail.com"
+   31  git config --global user.name "Ard2238"
+   32  git status
+   33  git add .
+   34  git config --global --list
+   35  git status
+   36  git commit -m "Intital commit"
+   37  git remote add origin https://github.com/Ard2238/HelloWorldJavaProject.git
+   38  git pull origin master
+   39  git status
+   40  git push origin master
+   41  git pull --rebase origin master
+   43  git pull --rebase origin master
+   44  git add .
+   45  git pull --rebase origin master
+   46  git status
+   47  git push origin master
+   48  git pull --rebase origin master
+   49  git commit -m "Added product function"
+   50  git status
+   51  git pull origin master
+   52  git pull --rebase origin master
+   53  git add .
+   54  git status
+   55  git push origin master
+   56  git branch
+   57  git checkout -b "NewFeature
+   58  git checkout -b "NewFeature"
+   59  git status
+   60  git add .
+   61  git commit -m "Added Modulus function"
+   62  git pull origin master
+   63  git pull origin NewFeature
+   64  git push origin NeewFeature
+   65  git pull --rebase origin NewFeature
+   66  git push origin NeewFeature
+   67  git push origin NewFeature
+   68  git checkout master 
+   69  git status
+   70  git merge NewFeature
+   71  git status
+   72  git add .
+   73  git commit -m "Mergerd NewFeature branch with master"
+   74  git push origin master
+   75  git init
+   76  git add .
+   77  git status
+   78  git commit -m "trial addition of new repo"
+   79  git push origin master
+   80  git pull origin master
+   81  git remote add origin "https://github.com/Ard2238/CollectionsTrial.git"
+   82  git pull origin master
+   83  git push origin master
+   84  git pull --rebase origin master
+   85  git commit -m "trial addition of new repo"
+   86  git push origin master
+   87  git pull origin master
+   88  git push origin master
+   89  git push -f origin master
+   90  git init
+   91  git status
+   92  git status
+   93  git status
+  102  git init
+  103  git status
+  104  git help
+  105  git help -a
+  106  git help --a
+  109  git config --;ist
+  110  git config --list
+  124  git commit -m "Added first line"
+  125  git init
+  126  git commit -m "Added first line"
+  127  git add .
+  128  git commit -m "Added first line"
+  129   git push origin master
+  130  git remote add origin https://github.com/Ard2238/Demo.git
+  131   git push origin master
+  132  git pull origin master
+  133   git push origin master
+  134  git pull -rebase origin master
+  135  git pull --rebase origin master
+  136   git push origin master
+  137  git pull origin master
+  138  git status
+  139  git add .
+  140  git commit -m "Creating conflict - local"
+  141  git diff
+  142   git push origin master
+  143  git pull origin master
+  144   git push origin master
+  145  git pull --rebase origin master
+  146  git merge
+  147  git status
+  148  git add .
+  149  git commit -m "Resolved Conflict"
+  150   git push origin master
+  151  git status
+  152  git branch Feature_Msg
+  153  git checkout Feature_Msg
+  154  git status
+  155  git checkout master
+  156  git pull origin master
+  157  git pull origin master
+  158  git diff
+  159  git diff
+  160  git diff demo.txt
+  161  git add demo.txt
+  162  git diff demo.txt
+  163  git diff --cached demo.txt
+  164  git diff --cached demo
+  165  git diff --cached demo.txt
+  166  git status
+  167  git checkout Feature_Msg
+  168  git diff demo.txt
+  169  git diff --cached demo.txt
+  170  git checkout master
+  171  git merge master Feature_Msg
+  172  git checkout Feature_Msg
+  173  git checkout master
+  174  git checkout -b newFeature
+  175  git merge master
+  176  git log --oneline
+  177  git checkout newFeature
+  179  git push origin newFeature
+  180  git add .
+  181  git commit
+  182  git commit
+  183  git push origin newFeature
+  184  git checkout master
+  185  git status
+  186  git log
+  187  git log --oneline
+  188  git checkout newFeature
+  189  git add .
+  190  git commit -m "Final Change"
+  191  git pull newFeature master/newFeature
+  192  git pull origin/newFeature master/newFeature
+  193  git pull origin newFeature
+  194  git push origin newFeature
+  195  git merge master
+  196  git checkout
+  197  git checkout master
+  198  git merge origin
+  199  git merge origin/master
+  200  git pull origin master
+  201  git push origin master
+  202  git history
+  203  git --help
+  204  git grep
+  205  git grep > output.txt
+  206  git grep git
+  207  git grep git >> output.txt
+  208  git grep -h "git"
+  209  git grep -h "git" >> output.txt
+  210  git grep -h "git" output.txt
+  211  history | grep "git " > output.txt
