@@ -1,1 +1,1 @@
-This is the first change made now.
+Second change in local. Creating conflict stage.
