@@ -6,3 +6,5 @@ Second change in remote. Creating conflict stage.
 
 
 Changing for branch purpose.
+
+changing changing changing
